@@ -1,6 +1,6 @@
 ## Bem Vindo ao meu perfil :)
 
-### Eu estou atualmente:
+### Atualmente estou:
 - Estudando desenvolvimento web na FIAP School
 - Trabalhando no meu TCC
 - Estudando para os vestibulares
