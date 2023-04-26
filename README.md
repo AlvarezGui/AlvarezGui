@@ -1,9 +1,7 @@
 ## Bem Vindo ao meu perfil :)
 
 ### Atualmente estou:
-- Estudando desenvolvimento web na FIAP School
-- Trabalhando no meu TCC
-- Estudando para os vestibulares
+- Estudando CC no Instituto Mauá de Tecnologia
 
 ##
 
