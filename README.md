@@ -2,6 +2,7 @@
 
 ### Atualmente estou:
 - Estudando CC no Instituto Mauá de Tecnologia
+- Estudando .NET e C# autodidata
 
 ### Projetos notáveis:
 - [Takout](https://github.com/AlvarezGui/Takout/) e [Takout Landing Page](https://github.com/AlvarezGui/takout-lp) - Ionic e React
